@@ -160,7 +160,7 @@ public class Problems{
 	
 //Q.8
 //Output
-// 	     1 
+// 	 1 
 //     2 1 2 
 //   3 2 1 2 3 
 // 4 3 2 1 2 3 4 
